@@ -1,0 +1,6 @@
+{
+  "name": "Synapse — 60-Second Micro-Learning",
+  "description": "The intellectual social network where every post is a focused 60-second micro-lesson with interactive slides, source verification, and retention checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
